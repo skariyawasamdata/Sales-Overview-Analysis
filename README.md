@@ -9,19 +9,19 @@ The goal of this project is to provide stakeholders with an interactive tool to 
 
 ### Key Features
 
-***Dynamic Metric Selection:** Users can switch the entire dashboard view between **Sales, Profit and Quantity** using a custom slicer.
+**Dynamic Metric Selection:** Users can switch the entire dashboard view between **Sales, Profit and Quantity** using a custom slicer.
 
 
-***Time-Intelligence:** Integrated year filters (2021–2024) with automatic **Previous Year (PY)** and **Year over Year (YoY)** calculations.
+**Time-Intelligence:** Integrated year filters (2021–2024) with automatic **Previous Year (PY)** and **Year over Year (YoY)** calculations.
 
 
-***Regional Breakdowns:** Dedicated sections for **Central, East, South and West** regions each featuring monthly sparklines and average trend lines.
+**Regional Breakdowns:** Dedicated sections for **Central, East, South and West** regions each featuring monthly sparklines and average trend lines.
 
 
-***Geospatial Analysis:** A bubble map visualizing sales distribution across states, where bubble size corresponds to volume.
+**Geospatial Analysis:** A bubble map visualizing sales distribution across states, where bubble size corresponds to volume.
 
 
-***Comparative Insights:** A detailed metrics table showing CY, PY and YoY performance across all three core KPIs.
+**Comparative Insights:** A detailed metrics table showing CY, PY and YoY performance across all three core KPIs.
 
 ---
 
@@ -44,7 +44,7 @@ The development followed a structured data analytics lifecycle:
 5.**Dashboard Layout & Design:** Created a professional UI/UX background and layout for better readability.
 
 
-6. **Insights Generation:** Finalized charts to highlight actionable business trends.
+6.**Insights Generation:** Finalized charts to highlight actionable business trends.
 
 
 
