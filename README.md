@@ -52,7 +52,7 @@ The development followed a structured data analytics lifecycle:
 
 ## Dashboard Visuals
 
-![Dashboard](Data/images/Create Capture.png)
+![Dashboard](Data/images/Dashboard.png)
 
 
 ### Visual Components:
