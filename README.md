@@ -57,13 +57,13 @@ The development followed a structured data analytics lifecycle:
 
 ### Visual Components:
 
-***Monthly Sparklines:** Bar charts showing monthly trends for the selected metric with an average reference line.
+**Monthly Sparklines:** Bar charts showing monthly trends for the selected metric with an average reference line.
 
 
-***Sales by State (Bar Chart):** Provides a ranked breakdown of performance by state for easy comparison.
+**Sales by State (Bar Chart):** Provides a ranked breakdown of performance by state for easy comparison.
 
 
-***Metrics Grid:** A comprehensive table displaying:
+**Metrics Grid:** A comprehensive table displaying:
 * Current Year (CY) vs. Previous Year (PY).
 
 * YoY Growth
